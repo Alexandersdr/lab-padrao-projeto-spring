@@ -2,7 +2,7 @@
  dio-desafio-projeto 27/11/2022
 
 # Spring Boot
- <img src="./img/spring2.png" width="270" height="205">
+ <img src="./img/spring2.png" width="240" height="240">
 
 # Spring Framawork
 
