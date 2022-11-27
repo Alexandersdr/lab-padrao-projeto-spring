@@ -2,7 +2,7 @@
  dio-desafio-projeto
 
 # Spring Boot
- <img src="/lab-padrao-projeto-spring/img/spring2.png">
+ <img src="/lab-padrao-projeto-spring/img/spring2.png"width="320" height="205">
 
 # Spring Framawork
 
