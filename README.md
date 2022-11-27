@@ -2,7 +2,7 @@
  dio-desafio-projeto
 
 # Spring Boot
- <img src="/home/alexander/Documentos/GitHub/puro-java/lab-padrao-projeto-spring/img/spring2.png">
+ <img src="/lab-padrao-projeto-spring/img/spring2.png">
 
 # Spring Framawork
 
