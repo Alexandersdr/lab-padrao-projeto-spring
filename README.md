@@ -1,8 +1,8 @@
 # lab-padrao-projeto-spring
- dio-desafio-projeto
+ dio-desafio-projeto 27/11/2022
 
 # Spring Boot
- <img src="/lab-padrao-projeto-spring/img/spring2.png"width="320" height="205">
+ <img src="./img/spring2.png" width="270" height="205">
 
 # Spring Framawork
 
@@ -14,5 +14,5 @@ Explorando alguns padrões de projeto com Spring:
 desse padrão: abstrair a complexidade  das seguntes
 intergrações: Spring Data JPA e ViaCep (Feign).
 
-Em memória(usando o "h2").
-<br>
+* Em memória(usando o "h2").
+
